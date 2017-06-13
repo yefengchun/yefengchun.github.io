@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>yefengchun.github.io/2017/06/13/rsync-1/</loc>
+    <lastmod>2017-06-13T10:03:13.770Z</lastmod>
+    <data>
+        <display>
+        <title>rsync</title>
+        <pubTime>2017-06-13T06:12:32.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+        <tag>rsync</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="yefengchun.github.io/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>yefengchun.github.io/2016/11/27/hello-world/</loc>
+    <lastmod>2016-11-27T10:05:48.136Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-11-27T10:05:48.136Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
