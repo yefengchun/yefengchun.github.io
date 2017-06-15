@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>yefengchun.github.io/categories/index.html</loc>
+    
+    <lastmod>2017-06-14T08:51:09.049Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>yefengchun.github.io/tags/index.html</loc>
+    
+    <lastmod>2017-06-14T08:14:56.624Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>yefengchun.github.io/about/index.html</loc>
+    
+    <lastmod>2017-06-13T13:41:11.063Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>yefengchun.github.io/2017/06/13/rsync-1/</loc>
     
     <lastmod>2017-06-13T10:03:13.770Z</lastmod>
